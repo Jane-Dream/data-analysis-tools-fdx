@@ -1,3 +1,3 @@
-# data-analysis-tools
+# data-analysis-tools-fdx
 
-使用结巴分词，实现对语料的处理。
+使用fasttext工具，实现简单的噪音模型判断接口
