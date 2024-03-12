@@ -4,6 +4,7 @@ requires = [
 "wheel",
 "jieba>=0.42.1",
 "fasttext-wheel",
-"numpy"
+"numpy",
+"data-analysis-tools-jms-diy"
 ]
 build-backend = "setuptools.build_meta"
